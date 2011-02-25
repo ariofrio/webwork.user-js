@@ -1,3 +1,5 @@
+# WeBWork Userscript
+
 `webwork.user.js` adds keyboard shortcuts to [WeBWork], a [wonderful][1] "online homework delivery system" used mainly for [college][2] [Calculus][3] [classes][4] which happens to have no keyboard accessibility whatsoever, apart from the standard Tab-until-you-die approach.
 
   [WeBWork]: http://en.wikipedia.org/wiki/WeBWorK
@@ -8,13 +10,16 @@
 
 It also autofocuses the first field in a problem as soon as it runs.
 
-# Installation
+## Installation
 
-Just download webwork.user.js
+If you have Google Chrome or Opera, just download [webwork.user.js] and accept when they ask if you want to install the extension. If you have Firefox, make sure you have the [Greasemonkey addon] installed first and then download [webwork.user.js], accepting when prompted.
 
-# Shortcuts
+  [webwork.user.js]: https://github.com/ariofrio/webwork.user-js/blob/master/webwork.user.js
+  [Greasemonkey addon]: https://addons.mozilla.org/en-us/firefox/addon/greasemonkey/
 
-## General Navigation
+## Shortcuts
+
+### General Navigation
 
 <dl>
   <dt>Alt+j</dt>
@@ -23,11 +28,11 @@ Just download webwork.user.js
   <dd>Next problem</dd>
   <dt>Alt+u</dt>
   <dd>Up to problem list/homework set list</dd>
-  <dt>Alt+Shift+_number_</dt>
-  <dd>_Maintain Alt+Shift pressed down and type the number, then release._ Go to the problem specified by the number.</dd>
+  <dt>Alt+Shift+_number_ </dt>
+  <dd> _Maintain Alt+Shift pressed down and type the number, then release._ Go to the problem specified by the number.</dd>
 </dl>
 
-## Entering solutions
+### Entering solutions
 
 <dl>
   <dt>A-Z</dt>
@@ -38,9 +43,9 @@ Just download webwork.user.js
   <dd>Submit answer</dd>
 </dl>
 
-# To Do
+## To Do
 
  - Enable moving between homework sets using Ctrl+j and Ctrl+k.
  - Clarify explanation of Alt+Shift+_number_
- - Add support for more WeBWork installations; some of the example websites are not supported (UCSB's is supported, though).
+ - Add support for more WeBWork installations apart from UCSB's; some of the linked example websites are not supported.
 
