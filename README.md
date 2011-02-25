@@ -28,8 +28,8 @@ If you have Google Chrome or Opera, just download [webwork.user.js] and accept w
   <dd>Next problem</dd>
   <dt>Alt+u</dt>
   <dd>Up to problem list/homework set list</dd>
-  <dt>Alt+Shift+_number_ </dt>
-  <dd> _Maintain Alt+Shift pressed down and type the number, then release._ Go to the problem specified by the number.</dd>
+  <dt>Alt+Shift+<i>number</i></dt>
+  <dd><em>Maintain Alt+Shift pressed down and type the number, then release.</em> Go to the problem specified by the number.</dd>
 </dl>
 
 ### Entering solutions
@@ -46,6 +46,6 @@ If you have Google Chrome or Opera, just download [webwork.user.js] and accept w
 ## To Do
 
  - Enable moving between homework sets using Ctrl+j and Ctrl+k.
- - Clarify explanation of Alt+Shift+_number_
+ - Clarify explanation of Alt+Shift+<i>number</i>
  - Add support for more WeBWork installations apart from UCSB's; some of the linked example websites are not supported.
 
