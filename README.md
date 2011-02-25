@@ -46,6 +46,6 @@ If you have Google Chrome or Opera, just download [webwork.user.js] and accept w
 ## To Do
 
  - Enable moving between homework sets using Ctrl+j and Ctrl+k.
- - Clarify explanation of Alt+Shift+<i>number</i>
+ - Clarify explanation of Alt+Shift+<i>number</i>. Introduce a light visual indicator of the current number. Implement Esc as a Cancel mechanism (and include "Press Esc to cancel" in the visual indicator).
  - Add support for more WeBWork installations apart from UCSB's; some of the linked example websites are not supported.
 
